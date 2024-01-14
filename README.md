@@ -17,3 +17,12 @@ Project involved seamlessly replacing our legacy signature-based antivirus, Soph
 - Led the comprehensive project to upgrade the organization's outdated antivirus solution to SentinelOne, a cutting-edge next-generation endpoint protection platform.
 - Conducted a meticulous evaluation and comparative analysis of multiple endpoint protection solutions, assessing factors such as threat detection capabilities, performance, scalability, and ease of management.
 - Utilized a systematic approach to assess the organization's specific security needs and requirements, determining that SentinelOne offered superior features, advanced threat prevention, and centralized management, making it the optimal choice for enhancing the organization's cybersecurity posture.
+
+
+
+<br />
+<br />
+<br />
+
+
+<a href="https://github.com/georgecyberli" class="button icon back">Back to Portfolio Page</a>
